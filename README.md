@@ -1,5 +1,5 @@
 <p align="center">
-<img src="header" alt="Clare Jordan GitHub header" width="100%">
+<img src="header.jfif" alt="Clare Jordan GitHub header" width="100%">
 </p>
 
 # Hi, I’m Clare Jordan  
