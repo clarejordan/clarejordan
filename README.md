@@ -20,6 +20,7 @@ Clinical program consultant focused on mental health parity, clinical quality, a
 - **clinical-triage-matching-sim** — rules and simple models to match patients to the right providers with a small dashboard
   
 **Skills**
+
 Python, pandas, numpy, openpyxl, python-docx, spaCy, regex, Streamlit, Jupyter, GitHub Actions, Power Automate, Smartsheet, MHPAEA parity, ASAM, LOCUS, InterQual, clinical operations, quality improvement
 
 **How I work**
