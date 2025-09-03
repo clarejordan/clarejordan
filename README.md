@@ -1,3 +1,7 @@
+<p align="center">
+<img src="header" alt="Clare Jordan GitHub header" width="100%">
+</p>
+
 # Hi, I’m Clare Jordan  
 
 Clinical program consultant focused on mental health parity, clinical quality, and practical AI automation. I build simple tools that help clinicians do great work with less friction.
