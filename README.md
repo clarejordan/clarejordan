@@ -1,4 +1,4 @@
-# Hi, I’m Clare Jordan 
+# Hi, I’m Clare Jordan  
 Clinical program consultant focused on mental health parity, clinical quality, and practical AI automation. I build simple tools that help clinicians do great work with less friction.
 **What I do**
 - Parity and NQTL analysis that turns policy into clear action
