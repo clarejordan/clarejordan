@@ -17,4 +17,4 @@ I design empathetic, clinically grounded conversations that help people get care
 ## About me
 Licensed Professional Clinical Counselor (LPCC) with 15+ years across therapy, clinical quality, and health plans. I build chat experiences that **enhance** the human relationship in care, not replace it. I care about access, outcomes, and transparency.
 
-📄 Resume • 💼 [LinkedIn] (https://www.linkedin.com/in/clareljordan) • ✉️ clare.l.jordan@gmail.com
+📄 Resume • 💼 [LinkedIn](https://www.linkedin.com/in/clareljordan) • ✉️ clare.l.jordan@gmail.com
