@@ -12,7 +12,7 @@ I design empathetic, clinically grounded conversations that help people get care
 **Skills & Tools:** Conversation Design, UX Writing, Safety & Escalation, CBT • DBT • ACT • EMDR-informed content, Voiceflow, Figma, Rasa (Python), Botpress, Prompt engineering
 
 ## Portfolio
-- **Rula-focused Conversational Design Portfolio** → [View the projects](https://github.com/YOUR_GITHUB_USERNAME/rula-conversation-design-portfolio)
+- **Rula-focused Conversational Design Portfolio** → [View the projects](https://github.com/clarejordan/rula-conversation-design-portfolio)
 
 ## About me
 Licensed Professional Clinical Counselor (LPCC) with 15+ years across therapy, clinical quality, and health plans. I build chat experiences that **enhance** the human relationship in care, not replace it. I care about access, outcomes, and transparency.
