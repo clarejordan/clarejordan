@@ -2,7 +2,7 @@
 <img src="header.jfif" alt="Clare Jordan GitHub header" width="100%">
 </p>
 
-# Hi, I’m Clare Jordan — Licensed Counselor → Staff Conversational Designer (Mental Health)
+# Hi, I’m Clare Jordan — Licensed Counselor → AI Conversational Designer (Mental Health)
 
 I design empathetic, clinically grounded conversations that help people get care faster, feel safer, and stick with therapy between sessions.
 
