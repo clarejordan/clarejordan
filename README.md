@@ -20,7 +20,7 @@ I am a licensed clinical counselor with more than 15 years of experience in ther
 - Tools: Voiceflow, Figma, Rasa (Python), GitHub  
 
 ## Portfolio
-- [Conversational Design Portfolio](https://github.com/clarejordan/rula-conversation-design-portfolio)
+- [Conversational Design Portfolio](https://github.com/clarejordan/Conversational-Design-Portfolio)
 
 ## About Me
 I have worked as a therapist, clinical trainer, program manager, and consultant. Across each role, I have seen how the right words at the right time can change a person’s experience. My goal is to design conversations that are safe, supportive, and effective, while always keeping the human relationship at the center.
