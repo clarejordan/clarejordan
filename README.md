@@ -25,4 +25,4 @@ I am a licensed clinical counselor with more than 15 years of experience in ther
 ## About Me
 I have worked as a therapist, clinical trainer, program manager, and consultant. Across each role, I have seen how the right words at the right time can change a person’s experience. My goal is to design conversations that are safe, supportive, and effective, while always keeping the human relationship at the center.
 
-📄 Resume • 💼 [LinkedIn](https://www.linkedin.com/in/clareljordan) • ✉️ clare.l.jordan@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/clareljordan) • ✉️ clare.l.jordan@gmail.com
