@@ -17,6 +17,16 @@ I care about making complicated systems less exhausting for the people inside th
 - Responsible AI workflow experiments for healthcare operations
 - Clear writing that helps clinical, legal, operational, and leadership teams work from the same page
 
+## Public examples
+
+These are fictional, sanitized examples created for portfolio review:
+
+- [NQTL documentation map](./examples/nqtl-documentation-map.md)
+- [AI workflow review checklist](./examples/ai-workflow-review-checklist.md)
+- [Clinical quality training brief](./examples/clinical-quality-training-brief.md)
+- [State policy technical assistance one-pager](./examples/state-policy-technical-assistance-one-pager.md)
+- [Python parity review checklist](./examples/parity_review_checklist.py)
+
 ## What I'm building toward
 
 My professional website frames the through-line of my work: behavioral health parity, policy implementation, clinical operations, and AI-enabled healthcare workflows.
@@ -32,6 +42,7 @@ GitHub is the builder-side companion to that work. I use it to practice, organiz
 
 ## Portfolio
 
+- [Public portfolio examples](./examples/README.md)
 - [Conversational Design Portfolio](https://github.com/clarejordan/Conversational-Design-Portfolio)
 
 ## A little more human
