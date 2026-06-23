@@ -1,0 +1,42 @@
+{
+  "nqtl_description": "Prior authorization for a fictional intensive outpatient service category.",
+  "benefit_classes": [
+    "Outpatient, in-network",
+    "Outpatient, out-of-network"
+  ],
+  "source_documents": [
+    "Fictional certificate of coverage",
+    "Fictional utilization management policy",
+    "Fictional clinical criteria summary",
+    "Fictional authorization workflow"
+  ],
+  "design_factors": [
+    "Clinical appropriateness",
+    "Regulatory requirements",
+    "Plan benefit terms"
+  ],
+  "application_factors": [
+    "Request for covered service",
+    "Member eligibility and benefit availability",
+    "Clinical information submitted with request"
+  ],
+  "evidentiary_standards": {
+    "clinical_appropriateness": "Documented clinical criteria or guideline source",
+    "regulatory_requirements": "State or federal requirement matrix",
+    "plan_benefit_terms": "Plan document or benefit grid"
+  },
+  "as_written_comparison": "Fictional M/S and MH/SUD workflows both require documented criteria, reviewer qualification standards, and escalation pathways. Additional review would be needed to assess any process differences.",
+  "in_operation_data_plan": [
+    "Request counts",
+    "Approval and denial rates",
+    "Average decision time",
+    "Reviewer level",
+    "Escalation frequency",
+    "Appeal or overturn outcomes if applicable"
+  ],
+  "open_questions": [
+    "Which data source is authoritative for decision-time reporting?",
+    "Are cancellation and withdrawal categories defined consistently?",
+    "Are reviewer qualification records available for the time period under review?"
+  ]
+}
