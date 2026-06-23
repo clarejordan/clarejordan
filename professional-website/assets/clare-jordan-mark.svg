@@ -1,0 +1,15 @@
+<svg width="640" height="640" viewBox="0 0 640 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Clare Jordan brand mark</title>
+  <desc id="desc">A minimal wordmark for Clare Jordan using black type, thin lines, and a small clay accent.</desc>
+  <rect width="640" height="640" fill="#ffffff"/>
+  <rect x="36" y="36" width="568" height="568" fill="#f8f8f6" stroke="#dedbd4"/>
+  <path d="M78 150H562" stroke="#dedbd4" stroke-width="2"/>
+  <path d="M78 492H562" stroke="#dedbd4" stroke-width="2"/>
+  <path d="M150 78V562" stroke="#dedbd4" stroke-width="2"/>
+  <path d="M490 78V562" stroke="#dedbd4" stroke-width="2"/>
+  <rect x="78" y="78" width="28" height="28" fill="#161616"/>
+  <rect x="534" y="534" width="28" height="28" fill="#a75f4b"/>
+  <text x="78" y="118" fill="#68665f" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="5">CLARE JORDAN</text>
+  <text x="86" y="377" fill="#161616" font-family="Helvetica, Arial, sans-serif" font-size="172" font-weight="700" letter-spacing="0">CJ</text>
+  <text x="78" y="536" fill="#68665f" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="4">PARITY / POLICY / OPERATIONS</text>
+</svg>
