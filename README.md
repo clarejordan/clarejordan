@@ -2,27 +2,40 @@
 <img src="header.jfif" alt="Clare Jordan GitHub header" width="100%">
 </p>
 
-# Hi, I’m Clare Jordan
+# Hi, I'm Clare Jordan
 
-I am a licensed clinical counselor with more than 15 years of experience in therapy, clinical quality, and program design. I now focus on creating conversations that improve access to care, support clients between sessions, and make complex health experiences easier to navigate.
+I am a behavioral health clinician and policy/operations leader working at the intersection of mental health parity, clinical quality, benefit design, and practical AI-enabled workflows.
 
-## Focus
-- Conversational design and UX writing for health care  
-- Evidence-based therapy content (CBT, DBT, ACT, EMDR)  
-- Clinical strategy, quality improvement, and mental health parity  
-- Emerging technology, including Python and conversational AI frameworks  
+I care about making complicated systems less exhausting for the people inside them: members, clinicians, operations teams, policy partners, and leaders who need clear decisions from messy information.
 
-## Skills
-- Conversation design and prototyping  
-- UX writing and tone design  
-- Clinical operations and quality improvement  
-- Safety and escalation design  
-- Tools: Voiceflow, Figma, Rasa (Python), GitHub  
+## What I help with
+
+- Mental health parity and MHPAEA implementation
+- NQTL comparative analysis and documentation structure
+- Behavioral health policy translation and benefit design support
+- Clinical operations, quality improvement, training, and audit readiness
+- Responsible AI workflow experiments for healthcare operations
+- Clear writing that helps clinical, legal, operational, and leadership teams work from the same page
+
+## What I'm building toward
+
+My professional website frames the through-line of my work: behavioral health parity, policy implementation, clinical operations, and AI-enabled healthcare workflows.
+
+GitHub is the builder-side companion to that work. I use it to practice, organize, and keep getting more fluent with technical tools so I can better prototype, evaluate, and explain healthcare workflows.
+
+## On GitHub
+
+- Python learning and automation practice
+- Small workflow and documentation experiments
+- Healthcare AI and domain-expert exploration
+- Conversation design and clinical content portfolio work
 
 ## Portfolio
+
 - [Conversational Design Portfolio](https://github.com/clarejordan/Conversational-Design-Portfolio)
 
-## About Me
-I have worked as a therapist, clinical trainer, program manager, and consultant. Across each role, I have seen how the right words at the right time can change a person’s experience. My goal is to design conversations that are safe, supportive, and effective, while always keeping the human relationship at the center.
+## A little more human
 
-💼 [LinkedIn](https://www.linkedin.com/in/clareljordan) • ✉️ clare.l.jordan@gmail.com
+Before policy and operations work, I was a therapist, clinical trainer, care management leader, and quality improvement specialist. That background still shapes how I work: I like clarity, kindness, practical tools, and systems that remember there are people on the other side.
+
+[LinkedIn](https://www.linkedin.com/in/clareljordan) | [GitHub](https://github.com/clarejordan) | clare.l.jordan@gmail.com
