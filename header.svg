@@ -1,0 +1,19 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Clare Jordan GitHub header</title>
+  <desc id="desc">A clean GitHub profile header for Clare Jordan using minimal typography and linework.</desc>
+  <rect width="1280" height="360" fill="#ffffff"/>
+  <rect x="32" y="32" width="1216" height="296" fill="#f8f8f6" stroke="#dedbd4"/>
+  <rect x="72" y="72" width="24" height="24" fill="#161616"/>
+  <rect x="1184" y="264" width="24" height="24" fill="#a75f4b"/>
+  <path d="M72 136H744" stroke="#dedbd4" stroke-width="2"/>
+  <path d="M72 246H744" stroke="#dedbd4" stroke-width="2"/>
+  <path d="M808 72V288" stroke="#dedbd4" stroke-width="2"/>
+  <path d="M930 72V288" stroke="#dedbd4" stroke-width="2"/>
+  <path d="M1052 72V288" stroke="#dedbd4" stroke-width="2"/>
+  <text x="72" y="120" fill="#68665f" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="5">BEHAVIORAL HEALTH / POLICY / AI OPERATIONS</text>
+  <text x="68" y="214" fill="#161616" font-family="Helvetica, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="0">Clare Jordan</text>
+  <text x="72" y="284" fill="#2d2c29" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="500">Parity, clinical operations, and responsible AI workflow strategy.</text>
+  <text x="826" y="126" fill="#68665f" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="3">PARITY</text>
+  <text x="948" y="196" fill="#68665f" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="3">SYSTEMS</text>
+  <text x="1070" y="266" fill="#68665f" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="3">AI REVIEW</text>
+</svg>
