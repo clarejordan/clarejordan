@@ -4,22 +4,25 @@
 
 # Hi, I'm Clare Jordan
 
-I am a behavioral health clinician and policy/operations leader working at the intersection of mental health parity, clinical quality, benefit design, and practical AI-enabled workflows.
+I am a licensed mental health clinician moving into AI-enabled behavioral health operations, parity strategy, quality improvement, and clinical technology leadership.
 
-I care about making complicated systems less exhausting for the people inside them: members, clinicians, operations teams, policy partners, and leaders who need clear decisions from messy information.
+My work is strongest where clinical judgment, policy interpretation, operational reality, and clear documentation all need to meet. I use GitHub as the builder-side companion to that work: a place for public-safe examples, workflow thinking, documentation structures, and practical technical practice.
+
+Portfolio: [clarejordan.github.io](https://clarejordan.github.io/)
 
 ## What I help with
 
 - Mental health parity and MHPAEA implementation
 - NQTL comparative analysis and documentation structure
-- Behavioral health policy translation and benefit design support
-- Clinical operations, quality improvement, training, and audit readiness
-- Responsible AI workflow experiments for healthcare operations
+- Behavioral health policy translation and operational impact review
+- Utilization and care management workflow improvement
+- Clinical quality improvement, training, and audit readiness
+- Responsible AI-assisted workflow and documentation design
 - Clear writing that helps clinical, legal, operational, and leadership teams work from the same page
 
 ## Public examples
 
-These are fictional, sanitized examples created for portfolio review:
+These are fictional, sanitized examples created for portfolio review. They connect to the case study themes on my website:
 
 - [NQTL documentation map](./examples/nqtl-documentation-map.md)
 - [AI workflow review checklist](./examples/ai-workflow-review-checklist.md)
@@ -27,26 +30,24 @@ These are fictional, sanitized examples created for portfolio review:
 - [State policy technical assistance one-pager](./examples/state-policy-technical-assistance-one-pager.md)
 - [Python parity review checklist](./examples/parity_review_checklist.py)
 
-## What I'm building toward
+## Portfolio paths
 
-My professional website frames the through-line of my work: behavioral health parity, policy implementation, clinical operations, and AI-enabled healthcare workflows.
-
-GitHub is the builder-side companion to that work. I use it to practice, organize, and keep getting more fluent with technical tools so I can better prototype, evaluate, and explain healthcare workflows.
+- [Personal portfolio](https://clarejordan.github.io/)
+- [Case studies](https://clarejordan.github.io/case-studies.html)
+- [Projects](https://clarejordan.github.io/projects.html)
+- [Resume](https://clarejordan.github.io/resume.html)
+- [Writing](https://clarejordan.github.io/writing.html)
 
 ## On GitHub
 
+- Public-safe behavioral health operations examples
+- Parity and documentation structures
+- AI workflow review and human-in-the-loop thinking
 - Python learning and automation practice
-- Small workflow and documentation experiments
-- Healthcare AI and domain-expert exploration
-- Conversation design and clinical content portfolio work
-
-## Portfolio
-
-- [Public portfolio examples](./examples/README.md)
-- [Conversational Design Portfolio](https://github.com/clarejordan/Conversational-Design-Portfolio)
+- Clinical content and conversation design portfolio work
 
 ## A little more human
 
-Before policy and operations work, I was a therapist, clinical trainer, care management leader, and quality improvement specialist. That background still shapes how I work: I like clarity, kindness, practical tools, and systems that remember there are people on the other side.
+Before policy, operations, and technology work, I was a therapist, clinical trainer, care management leader, and quality improvement specialist. That background still shapes how I work: I like clarity, kindness, practical tools, and systems that remember there are people on the other side.
 
-[LinkedIn](https://www.linkedin.com/in/clareljordan) | [GitHub](https://github.com/clarejordan) | clare.l.jordan@gmail.com
+[Portfolio](https://clarejordan.github.io/) | [LinkedIn](https://www.linkedin.com/in/clareljordan) | [GitHub](https://github.com/clarejordan) | clare.l.jordan@gmail.com
