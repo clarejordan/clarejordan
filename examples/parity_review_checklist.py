@@ -1,11 +1,11 @@
-"""Fictional parity review checklist example.
+"""Synthetic parity review checklist.
 
 This script checks whether a structured review record includes expected
-sections for a parity/NQTL documentation review. It is a portfolio example,
+sections for a parity/NQTL documentation review. It is a completed portfolio artifact,
 not legal, compliance, clinical, or operational advice.
 
 Run:
-    python parity_review_checklist.py sample_parity_review.json
+    python parity_review_checklist.py parity_review_record.json
 """
 
 from __future__ import annotations

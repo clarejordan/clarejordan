@@ -1,6 +1,6 @@
-# Example: Clinical Quality Training Brief
+# Clinical Quality Training Brief
 
-Fictional and sanitized portfolio example. Not clinical advice.
+Completed synthetic portfolio artifact. Not clinical advice.
 
 ## Training Topic
 
@@ -24,7 +24,7 @@ By the end of the training, participants should be able to:
 - Use consistent language for follow-up planning
 - Recognize when a case needs escalation or consultation
 
-## Sample Scenario
+## Training Scenario
 
 A member reports increased anxiety, disrupted sleep, and missed workdays after a recent family stressor. The member denies current suicidal intent but reports feeling overwhelmed and isolated. The clinician provides coping-skills coaching, discusses supports, and schedules follow-up.
 
@@ -38,7 +38,7 @@ A member reports increased anxiety, disrupted sleep, and missed workdays after a
 6. What follow-up plan was established?
 7. Does the note explain why the next step is appropriate?
 
-## Before and After Example
+## Before and After
 
 ### Less Useful
 
@@ -60,11 +60,11 @@ Member reported increased anxiety, poor sleep, and missed workdays following a f
 
 ## Facilitation Notes
 
-- Start with examples rather than policy language
+- Start with concrete decisions rather than policy language
 - Ask clinicians what information they would need if they inherited the case tomorrow
 - Normalize that good documentation is a clinical tool, not just an audit requirement
 - Use calibration discussion to reduce variation across reviewers
 
-## Why this example matters
+## Why this artifact matters
 
 Quality improvement works best when it respects clinicians and gives them practical tools. The goal is not more words. The goal is clearer clinical thinking that another person can safely follow.

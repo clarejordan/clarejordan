@@ -1,12 +1,12 @@
-# Example: NQTL Documentation Map
+# NQTL Documentation Map
 
-Fictional and sanitized portfolio example. Not legal, compliance, or operational advice.
+Completed synthetic portfolio artifact. Not legal, compliance, or operational advice.
 
 ## Scenario
 
 A health plan team needs to document how an NQTL is designed and applied across medical/surgical and mental health/substance use disorder benefits.
 
-Sample NQTL: prior authorization for intensive outpatient services.
+Synthetic NQTL used in this artifact: prior authorization for intensive outpatient services.
 
 The team has several source documents, but the logic is spread across plan language, clinical criteria, operational workflows, committee oversight materials, and reporting outputs.
 
@@ -35,7 +35,7 @@ Create a documentation map that helps reviewers understand:
 | 7. Compare in operation | What data shows how the process actually functions? | Data request and analysis plan |
 | 8. Summarize findings | What is clear, what is missing, and what needs remediation? | Executive summary and action list |
 
-## Sample Factor Table
+## Factor Table
 
 | Factor | M/S application | MH/SUD application | Evidence to verify |
 | --- | --- | --- | --- |
@@ -53,7 +53,7 @@ Create a documentation map that helps reviewers understand:
 - What operational data is available, and does it match the written process?
 - Are data limitations documented honestly?
 
-## Example Data Request
+## Data Request
 
 - Authorization request counts by benefit type and service category
 - Approval, denial, cancellation, and withdrawal rates
@@ -73,6 +73,6 @@ Create a documentation map that helps reviewers understand:
 6. What limitations remain
 7. What changes, if any, are recommended
 
-## Why this example matters
+## Why this artifact matters
 
 Parity documentation can become overwhelming quickly. My approach is to make the logic visible: source by source, factor by factor, and workflow by workflow, so legal, clinical, compliance, and operations teams can see the same picture.

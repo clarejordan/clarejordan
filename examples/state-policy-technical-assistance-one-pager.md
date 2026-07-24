@@ -1,6 +1,6 @@
-# Example: State Policy Technical Assistance One-Pager
+# State Policy Technical Assistance One-Pager
 
-Fictional and sanitized portfolio example. Not policy, legal, clinical, or funding advice.
+Completed synthetic portfolio artifact. Not policy, legal, clinical, or funding advice.
 
 ## Topic
 
@@ -40,7 +40,7 @@ Many systems have services available, but families and schools experience the pa
 | 5. Create feedback loops | Define what information returns to the referring partner | Feedback-loop protocol |
 | 6. Measure and refine | Track access, timeliness, completion, and family experience | Simple dashboard or review cadence |
 
-## Sample Measures
+## Measures
 
 - Time from identified need to referral
 - Time from referral to first contact
@@ -62,6 +62,6 @@ Many systems have services available, but families and schools experience the pa
 
 A family should be able to understand what is happening, who is responsible for the next step, and what to do if things get worse before the next appointment.
 
-## Why this example matters
+## Why this artifact matters
 
 Good policy needs implementation support. I like technical assistance work because it turns a shared goal into something people can actually use: a map, a checklist, a training, a decision guide, or a review rhythm.

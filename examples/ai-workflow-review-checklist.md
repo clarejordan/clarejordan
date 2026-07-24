@@ -1,6 +1,6 @@
-# Example: AI Workflow Review Checklist
+# AI Workflow Review Checklist
 
-Fictional and sanitized portfolio example. Not clinical, legal, compliance, or operational advice.
+Completed synthetic portfolio artifact. Not clinical, legal, compliance, or operational advice.
 
 ## Use Case
 
@@ -29,7 +29,7 @@ AI can help with structure, consistency, and drafting support. It should not rep
 5. What output format would help the team act?
 6. Who reviews the AI-assisted output before it is used?
 
-## Suggested Output Template
+## Required Output Structure
 
 | Field | Purpose |
 | --- | --- |
@@ -41,7 +41,7 @@ AI can help with structure, consistency, and drafting support. It should not rep
 | Confidence notes | Reasons the output may be incomplete or uncertain |
 | Source references | Input sections used to produce the response |
 
-## Example Prompt Pattern
+## Controlled Prompt Pattern
 
 ```text
 You are helping organize a documentation review. Do not make a final compliance determination.
@@ -66,7 +66,7 @@ Cite the source section for every item marked Found.
 If evidence is missing, say what type of source would help.
 ```
 
-## Example Human Review Questions
+## Human Review Questions
 
 - Did the AI overstate what the source actually supports?
 - Did it confuse a factor with an evidentiary standard?
@@ -84,6 +84,6 @@ A useful AI-assisted workflow should be:
 - Practical: outputs connect to a next action
 - Human-centered: the tool makes review easier without pretending the work is simple
 
-## Why this example matters
+## Why this artifact matters
 
 The valuable part of AI in healthcare operations is not magic. It is making repeatable work easier to inspect, improving consistency, and giving expert reviewers more time for the judgment calls that actually need them.
