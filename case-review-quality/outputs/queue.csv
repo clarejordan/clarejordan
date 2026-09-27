@@ -1,0 +1,17 @@
+case_id,priority,owner,follow_up
+CASE-01,urgent,Reviewer 1,Assign reporting-review owner; Urgent human safety review
+CASE-11,urgent,Reviewer 1,Urgent human safety review
+CASE-02,follow_up,Reviewer 1,Resolve reviewer disagreement; Assess reporting route with authorized specialist
+CASE-04,follow_up,Reviewer 1,Resolve reviewer disagreement; Review evidence before restriction
+CASE-05,follow_up,,Assign case owner
+CASE-06,follow_up,Reviewer 1,Document review rationale
+CASE-09,follow_up,Reviewer 1,Assess reporting route with authorized specialist
+CASE-10,follow_up,Reviewer 1,Resolve reviewer disagreement; Document adjudication rationale; Review evidence before restriction
+CASE-15,follow_up,Reviewer 1,Document review rationale
+CASE-03,documented,Reviewer 1,
+CASE-07,documented,Reviewer 1,
+CASE-08,documented,Reviewer 1,
+CASE-12,documented,Reviewer 1,
+CASE-13,documented,Reviewer 1,
+CASE-14,documented,Reviewer 1,
+CASE-16,documented,Reviewer 1,

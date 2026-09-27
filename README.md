@@ -1,59 +1,33 @@
 # Clare Jordan, M.Ed., LPCC, NCC
 
-**Safety evaluation operations · behavioral health policy · clinical quality · high-stakes systems**
+**Behavioral health operations · clinical quality · policy implementation · applied AI safety**
 
-I am a licensed clinician and operations leader with 15+ years of experience turning risk, policy, and quality expectations into decisions people can execute, review, and improve.
+I am a licensed clinician and operations leader with 15+ years in behavioral health. My work spans clinical risk, quality improvement, mental health parity, training, and leadership of a team of 17 licensed clinicians. I am interested in roles where careful judgment, clear documentation, and dependable operations matter.
 
-My professional grounding is in mental health parity, clinical quality, utilization and care management, crisis assessment, training, and leadership. My current technical work applies that operating discipline to AI safeguards: paired evaluations, regression triage, reviewer calibration, launch gates, mitigation tracking, SQL analysis, and decision documentation.
+[Portfolio](https://clarejordan.github.io/) · [Resume](https://clarejordan.github.io/resume.html) · [LinkedIn](https://www.linkedin.com/in/clareljordan) · [Email](mailto:clare.l.jordan@gmail.com)
 
-[Portfolio](https://clarejordan.github.io/) · [Safety-evaluation dashboard](https://clarejordan.github.io/safety-evaluations.html) · [LinkedIn](https://www.linkedin.com/in/clareljordan) · [Email](mailto:clare.l.jordan@gmail.com)
+## Start here
 
-## Featured build: safety evaluation operations
+| Work sample | What it demonstrates | Explore |
+| --- | --- | --- |
+| **Case review quality lab** | Evidence gaps, reviewer disagreement, urgent handoffs, and documented ownership across 16 fictional cases | [Interactive queue](https://clarejordan.github.io/case-review.html) · [Code, tests, and decision memo](case-review-quality/) |
+| **Safety evaluation operations** | Paired evaluation analysis, critical regression review, and a launch gate that holds a candidate despite improved aggregate results | [Dashboard](https://clarejordan.github.io/safety-evaluations.html) · [Reproducible Python and SQL](safety-evaluation-operations/) |
+| **Policy and clinical quality examples** | Review checklists, documentation maps, training briefs, and technical assistance | [Work samples](examples/) |
 
-[**Inspect the complete project →**](./safety-evaluation-operations/)
+The technical projects use synthetic data and are portfolio demonstrations. They are separate from my professional experience and do not claim production trust-and-safety investigations, platform reporting, or independent engineering experience.
 
-I built a synthetic, reproducible launch-readiness workflow for a model candidate:
+## Relevant background
 
-| Signal | Result |
-|---|---:|
-| Paired scenarios | 24 |
-| Total evaluation runs | 48 |
-| Candidate pass rate | 91.7% |
-| Baseline pass rate | 70.8% |
-| New critical regressions | 1 |
-| Launch recommendation | **HOLD** |
+- **Clinical quality and operations:** risk review, documentation quality, clinician training, and cross-functional process improvement.
+- **Policy implementation:** translating behavioral health requirements into evidence, review criteria, and practical workflows.
+- **Child protection foundation:** a yearlong elementary-school counseling internship with mandated reporting, graduate work supporting practitioner training in sex-offender treatment, and forensic psychiatric volunteering.
+- **Education:** M.Ed. from Ohio University; undergraduate double major in psychology and sociology/criminology.
 
-The candidate fixes six baseline failures and improves overall performance by 20.9 percentage points. A paired SQL comparison also identifies a new critical privacy/doxxing regression. Because the pre-registered gate requires zero unresolved critical failures, the launch remains on hold.
+These experiences inform my interest in child safety and responsible AI. They also support broader clinical operations, quality, compliance, and program roles.
 
-The repository includes:
+## Reproduce the work
 
-- a typed SQLite schema and indexed evaluation table;
-- SQL scorecards, product/domain cuts, paired regression detection, and a severity-aware review queue;
-- a standard-library Python pipeline that generates dashboard-ready outputs;
-- automated tests for paired coverage, improvement, regression detection, and launch-gate behavior;
-- an evaluation runbook, launch decision memo, mitigation owners, and rerun exit criteria;
-- a methodology and limitations statement that separates this portfolio evidence from production experience.
-
-## What I bring to safeguards work
-
-- **High-stakes judgment:** crisis assessment, clinical risk, sensitive content, incomplete information, defensible decisions, and appropriate escalation.
-- **Policy-to-operations translation:** mental health parity requirements, NQTL documentation, evidence needs, reviewer guidance, and audit support.
-- **Zero-to-one quality systems:** training, QA tools, recurring review cadences, dashboards, and executive-facing decisions for distributed behavioral health operations.
-- **Program leadership:** concurrent workstreams, cross-functional delivery, and direct leadership of 17 licensed clinicians.
-- **Technical fluency in practice:** SQLite, CTEs, conditional aggregation, self-joins, CSV/JSON pipelines, automated tests, vanilla JavaScript dashboards, and Git-based documentation.
-- **Clear limits:** I distinguish transferable operating experience from production trust-and-safety experience and make assumptions visible.
-
-## Additional operating artifacts
-
-- [NQTL documentation map](./examples/nqtl-documentation-map.md)
-- [AI workflow review checklist](./examples/ai-workflow-review-checklist.md)
-- [Clinical quality training brief](./examples/clinical-quality-training-brief.md)
-- [State policy technical assistance one-pager](./examples/state-policy-technical-assistance-one-pager.md)
-- [Python parity review checklist](./examples/parity_review_checklist.py)
-
-## How I work
-
-I start with the decision a person must make. Then I define the evidence, severity, reviewer role, escalation path, documentation standard, and feedback loop around it. The goal is not process for its own sake; it is a system that makes important findings harder to miss and easier to act on.
+Both projects run locally with Python's standard library. Each includes its own instructions, limitations, and tests. No API keys or confidential data are required.
 
 ## Authorship and AI collaboration
 

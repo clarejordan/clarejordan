@@ -20,6 +20,18 @@ def load_database() -> sqlite3.Connection:
     connection.executescript(SCHEMA_PATH.read_text(encoding="utf-8"))
     with DATA_PATH.open(newline="", encoding="utf-8") as handle:
         rows = list(csv.DictReader(handle))
+    if not rows:
+        raise ValueError("Evaluation input is empty")
+    pairs = {}
+    for row in rows:
+        key = (row["scenario_id"], row["model_version"])
+        if key in pairs:
+            raise ValueError("Duplicate scenario/model pair")
+        pairs[key] = row
+    for scenario in {r["scenario_id"] for r in rows}:
+        models = {r["model_version"] for r in rows if r["scenario_id"] == scenario}
+        if models != {"baseline-1.4", "candidate-1.5"}:
+            raise ValueError("Every scenario requires exactly one baseline and candidate")
     columns = list(rows[0])
     placeholders = ", ".join("?" for _ in columns)
     connection.executemany(
@@ -33,11 +45,11 @@ def query(connection: sqlite3.Connection, sql: str) -> list[dict]:
     return [dict(row) for row in connection.execute(sql).fetchall()]
 
 
-def write_csv(path: Path, rows: list[dict]) -> None:
-    if not rows:
-        raise ValueError(f"No rows generated for {path.name}")
+def write_csv(path: Path, rows: list[dict], fieldnames=None) -> None:
+    if not rows and not fieldnames:
+        raise ValueError("Empty output requires explicit column names")
     with path.open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.DictWriter(handle, fieldnames=list(rows[0]))
+        writer = csv.DictWriter(handle, fieldnames=fieldnames or list(rows[0]))
         writer.writeheader()
         writer.writerows(rows)
 
@@ -123,7 +135,7 @@ def build_outputs() -> dict:
     OUTPUT_DIR.mkdir(exist_ok=True)
     write_csv(OUTPUT_DIR / "model_summary.csv", model_summary)
     write_csv(OUTPUT_DIR / "domain_summary.csv", domain_summary)
-    write_csv(OUTPUT_DIR / "regression_queue.csv", regression_queue)
+    write_csv(OUTPUT_DIR / "regression_queue.csv", regression_queue, ["scenario_id", "risk_domain", "severity", "product_surface", "baseline_outcome", "candidate_outcome", "observed_action", "notes"])
     dashboard = {
         "analysis_date": max(row["run_date"] for row in dashboard_rows),
         "launch_recommendation": recommendation,
